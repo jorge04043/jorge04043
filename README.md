@@ -20,3 +20,28 @@
 - **Normalización 1FN → 3FN** (eliminación redundancias/anomalías)
 
 ### **🗄️ SQL Fundamental**
+### **🎯 En Formación (ADSO 3er Trimestre)**
+- Análisis de requisitos y aseguramiento de calidad de software
+- Metodologías ágiles y patrones de diseño
+- Convenio **Cisco Networking Academy** (Ciberseguridad Essentials en progreso)
+
+---
+
+## 🚀 **Sobre Mí**
+Estudiante disciplinado que equilibra **trabajo full-time en logística** (7am-5pm) con **SENA nocturno**, sacrificando sueño por aprender. Busco oportunidades **freelance/junior dev** en desarrollo web, bases de datos y TI.
+
+**Objetivo**: Convertir conocimientos teóricos en **proyectos reales** y certificaciones Cisco para equipos innovadores.
+
+**Herramientas**: GitHub, VS Code, Draw.io, MySQL, Packet Tracer (Cisco)
+
+---
+
+<div align="center">
+  
+**¡Conéctate!** 💬  
+[![Email](https://img.shields.io/badge/Email-Contáctame-green?style=for-the-badge&logo=gmail)](mailto:tuemail@gmail.com)  
+[![Upwork](https://img.shields.io/badge/Upwork-Freelance-purple?style=for-the-badge&logo=upwork)](https://upwork.com)
+
+**"El conocimiento aplicado genera valor"** – Jorge Castillo
+
+</div>
